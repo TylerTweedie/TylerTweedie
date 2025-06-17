@@ -1,4 +1,4 @@
-<h1>Hi, I'm Tyler! <br/><a href="https://github.com/joshmadakor1">Data Integration Specialist</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Future Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+<h1>Hi, I'm Tyler! <br/><a href="https://github.com/joshmadakor1">SecOps Analyst</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Future Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
 
 <h2>👨‍💻 CyberSecurity Projects:</h2>
 
