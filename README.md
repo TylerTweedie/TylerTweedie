@@ -49,16 +49,19 @@ My journey in computer science has led me to develop a passion for cybersecurity
     
 </div>
 
-## 🎓 Training & Certification
+## 🎓 Training & Certifications
 <div>
 </div>
+
 Cloud Engineer Academy
+
 
 <div>
 <img src="https://img.shields.io/badge/-Cloud%20Engineer%20Academy-5C2D91?style=for-the-badge&logo=Cloudflare&logoColor=white" />
 </div>
 
 Certifications
+
 
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
@@ -67,6 +70,7 @@ Certifications
 </div>
 
 Extra Training
+
 
 <div>
 <img src="https://img.shields.io/badge/Professor%20Messer%20A%2B-EA4335?style=for-the-badge&logo=BookStack&logoColor=white" />
