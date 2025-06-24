@@ -11,14 +11,14 @@ My journey in computer science has led me to develop a passion for cybersecurity
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
-|Project            | Skill                                         | Associated Project         |
-|-------------------|-----------------------------------------------|----------------------------|
-|                   | Creating a Live SOC / Honeynet in Azure       | <a href="https://github.com/TylerTweedie/Cloud-SOC">Detection Lab</a>|
-|                   |SOC Analyst Challenge - MYDFIR                 | <a href="https://google.com">Detection Lab</a>|
-|                   | Security Automation with Shuffle SOAR         | SOC Automation Lab|
-|                   | Incident Response Planning and Execution      | SOC Automation Lab|
-|                   | Case Management with TheHive                  | SOC Automation Lab|
-|                   | Scripting and Automation for Threat Mitigation| SOC Automation Lab|
+|Project name                               | Skills obtained                               | Associated Project         |
+|-------------------                        |-----------------------------------------------|----------------------------|
+|Creating a Live SOC / Honeynet in Azure    |                                               | <a href="https://github.com/TylerTweedie/Cloud-SOC">Detection Lab</a>|
+|SOC Analyst Challenge - MYDFIR             |                                               | <a href="https://google.com">Detection Lab</a>|
+|                                           | Security Automation with Shuffle SOAR         | SOC Automation Lab|
+|                                           | Incident Response Planning and Execution      | SOC Automation Lab|
+|                                           | Case Management with TheHive                  | SOC Automation Lab|
+|                                           | Scripting and Automation for Threat Mitigation| SOC Automation Lab|
 
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
