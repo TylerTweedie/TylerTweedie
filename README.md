@@ -3,7 +3,8 @@
 <a href="https://www.linkedin.com/in/tylertweedie" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-
+<br>
+</br>
 
 I am currently a SecOps analyst with a profound interest in technology and a dedication to solving complex problems.
 
@@ -25,12 +26,13 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 ## Tools
 
-
 ### 🔍 Endpoint Detection and Response (EDR) / Threat Detection
 <div>
     <img src="https://img.shields.io/badge/-CrowdStrike-E4002B?style=for-the-badge&logo=CrowdStrike&logoColor=white" />
     
 </div>
+
+<br>
 
 ### 🛡️ Vulnerability Management / Assessment
 <div>
@@ -38,19 +40,24 @@ My journey in computer science has led me to develop a passion for cybersecurity
     <img src="https://img.shields.io/badge/-Tenable-0296D8?style=for-the-badge&logo=Tenable&logoColor=white" />
 </div>
 
+<br>
+
 ### 🧰 IT Systems Management / Software Deployment
 <div>
     <img src="https://img.shields.io/badge/-PDQ%20Deploy-1A1A1A?style=for-the-badge&logo=windows&logoColor=white" />
     <img src="https://img.shields.io/badge/-Action1-007ACC?style=for-the-badge&logo=security&logoColor=white" />
-
 </div>
+
+<br>
 
 ### ☁️ Cloud Providers
 <div>
     <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=Amazon%20AWS&logoColor=white" />
     <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=Microsoft%20Azure&logoColor=white" />
-    
 </div>
+
+<br>
+
 
 ## 🎓 Training & Certifications
 <div>
@@ -63,6 +70,8 @@ Cloud Engineer Academy
 <img src="https://img.shields.io/badge/-Cloud%20Engineer%20Academy-5C2D91?style=for-the-badge&logo=Cloudflare&logoColor=white" />
 </div>
 
+<br>
+
 Certifications
 
 
@@ -71,6 +80,8 @@ Certifications
 <img src="https://img.shields.io/badge/ISC²%20Certified%20in%20Cybersecurity-006400?style=for-the-badge&logo=ISC2&logoColor=white" />
 <img src="https://img.shields.io/badge/Google%20Cybersecurity%20Certificate-4285F4?style=for-the-badge&logo=Google&logoColor=white" />
 </div>
+
+<br>
 
 Extra Training
 
