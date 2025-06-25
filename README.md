@@ -1,6 +1,9 @@
 # Hello, I'm Tyler
 <a href="www.linkedin.com/in/tylertweedie"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/tylertweedie)
+
+<a href="https://www.linkedin.com/in/tylertweedie" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
 
 I am currently a SecOps analyst with a profound interest in technology and a dedication to solving complex problems.
