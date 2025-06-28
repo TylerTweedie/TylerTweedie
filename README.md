@@ -12,7 +12,6 @@ As a SecOps Analyst focused on cloud security, I've developed a strong passion f
 
 <br>
 </br>
-
 ## Projects
 
 |Project name                               | Skills obtained                               | Associated Project         |
