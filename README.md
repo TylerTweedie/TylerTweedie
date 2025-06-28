@@ -5,6 +5,7 @@
 </a>
 <br>
 </br>
+
 ## Objective
 
 As a SecOps Analyst focused on cloud security, I've developed a strong passion for cybersecurity. I'm now looking to deepen my impact by taking on new challenges and expanding my expertise in the field.
