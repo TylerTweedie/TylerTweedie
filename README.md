@@ -16,8 +16,8 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 |Project name                               | Skills obtained                               | Associated Project         |
 |-------------------                        |-----------------------------------------------|----------------------------|
-|Creating a Live SOC / Honeynet in Azure    |                                               | <a href="https://github.com/TylerTweedie/Cloud-SOC">Honeynet lab</a>|
-|SOC Analyst Challenge - MYDFIR             |                                               | <a href="https://github.com/TylerTweedie/MyDFIR-SOC-analyst">SOC analyst challenge</a>|
+|Creating a Live SOC / Honeynet in Azure    |Cloud security, threat detection, incident response, SIEM (Azure Sentinel), network monitoring, log analysis, attacker behavior, honeypot deployment, Azure infrastructure, threat intelligence.                             | <a href="https://github.com/TylerTweedie/Cloud-SOC">Honeynet lab</a>|
+|SOC Analyst Challenge - MYDFIR             |Log parsing, ELK stack analysis, real-time threat hunting, data correlation, alert tuning, Linux server monitoring, open-source intelligence (OSINT), packet analysis, remote logging setup, hands-on attacker tracing.     | <a href="https://github.com/TylerTweedie/MyDFIR-SOC-analyst">SOC analyst challenge</a>|
 |                                           | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 |                                           | Incident Response Planning and Execution      | SOC Automation Lab|
 |                                           | Case Management with TheHive                  | SOC Automation Lab|
