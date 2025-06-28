@@ -28,15 +28,17 @@ As a SecOps Analyst focused on cloud security, I've developed a strong passion f
 ### 🔍 Endpoint Detection and Response (EDR) / Threat Detection
 <div>
     <img src="https://img.shields.io/badge/-CrowdStrike-E4002B?style=for-the-badge&logo=CrowdStrike&logoColor=white" />
-    
+    <img src="https://img.shields.io/badge/-Elastic%20Security-005571?style=for-the-badge&logo=elastic&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
 </div>
 
 <br>
 
 ### 🛡️ Vulnerability Management / Assessment
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Tenable-0296D8?style=for-the-badge&logo=Tenable&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Microsoft%20Entra-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
+
 </div>
 
 <br>
