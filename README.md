@@ -7,7 +7,7 @@
 
 ## Objective
 
-As a SecOps Analyst focused on cloud security, I've developed a strong passion for cybersecurity. I'm now looking to deepen my impact by taking on new challenges and expanding my expertise in the field.
+Security Operations Analyst with a focus on cloud security and a strong passion for cybersecurity. Driven to take on new challenges, expand my skill set, and make a deeper impact in the field.
 
 <br>
 
