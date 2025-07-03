@@ -7,7 +7,7 @@
 
 ## Objective
 
-Security Operations Analyst with a focus on cloud security and a strong passion for cybersecurity. Driven to take on new challenges, expand my skill set, and make a deeper impact in the field.
+Security Operations Analyst with a relentless drive to learn, grow, and stay ahead in the ever-evolving digital landscape.
 
 <br>
 
