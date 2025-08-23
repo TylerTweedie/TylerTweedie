@@ -17,7 +17,7 @@ Security Operations Analyst with a relentless drive to learn, grow, and stay ahe
 |-------------------                        |-----------------------------------------------|----------------------------|
 |Creating a Live SOC / Honeynet in Azure    |Cloud security, threat detection, incident response, SIEM (Azure Sentinel), network monitoring, log analysis, attacker behavior, honeypot deployment, Azure infrastructure, threat intelligence.                             | <a href="https://github.com/TylerTweedie/Cloud-SOC">Honeynet lab</a>|
 |SOC Analyst Challenge - MYDFIR             |Log parsing, ELK stack analysis, real-time threat hunting, data correlation, alert tuning, Linux server monitoring, open-source intelligence (OSINT), packet analysis, remote logging setup, hands-on attacker tracing.     | <a href="https://github.com/TylerTweedie/MyDFIR-SOC-analyst.git">SOC analyst challenge</a>|
-|Azure Cloud Security Operations            || <a href="https://github.com/TylerTweedie/Azure-Project-CP">SOC analyst challenge</a>|
+|Azure Cloud Security Operations            || <a href="https://github.com/TylerTweedie/Azure-Project-CP">Azure Cloud Security Operations</a>|
 |                                           |                                               | |
 
 
