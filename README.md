@@ -5,7 +5,7 @@
 </a>
 <br>
 
-## Objective
+## About me
 
 Security Operations Analyst with a relentless drive to learn, grow, and stay ahead in the ever-evolving digital landscape.
 
