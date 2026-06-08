@@ -7,7 +7,7 @@
 
 ## About me
 
-Security Operations Analyst with a relentless drive to learn, grow, and stay ahead in the ever-evolving digital landscape.
+I am currently an Information Security Analyst with 2 years of Cybersecurity experience with a relentless drive to learn, grow, and stay ahead in the ever-evolving digital landscape.
 
 <br>
 
