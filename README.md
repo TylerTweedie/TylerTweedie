@@ -51,14 +51,9 @@ Experienced Information Security Analyst with 2 years of expertise in monitoring
 ### 🔍 SIEM & Threat Detection (EDR / IDS / IPS)
 <div>
     <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/Trellix-00BFFF?style=for-the-badge&logo=trellix&logoColor=white" />
     <img src="https://img.shields.io/badge/Elastic_Stack_(ELK)-005571?style=for-the-badge&logo=elastic&logoColor=white" />
     <img src="https://img.shields.io/badge/CrowdStrike-E4002B?style=for-the-badge&logo=crowdstrike&logoColor=white" />
     <img src="https://img.shields.io/badge/Microsoft_Defender-00A4EF?style=for-the-badge&logo=microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/FireEye-FF4500?style=for-the-badge&logo=fireeye&logoColor=white" />
-    <img src="https://img.shields.io/badge/Cisco_OpenDNS-172B4D?style=for-the-badge&logo=cisco&logoColor=white" />
-    <img src="https://img.shields.io/badge/Check_Point-009A44?style=for-the-badge&logo=checkpointsoftwaretechnologies&logoColor=white" />
-    <img src="https://img.shields.io/badge/FireEye_NX-E4002B?style=for-the-badge&logo=fireeye&logoColor=white" />
     <img src="https://img.shields.io/badge/Thinkst_Canary-FF6F00?style=for-the-badge&logo=security&logoColor=white" />
 </div>
 
@@ -69,8 +64,6 @@ Experienced Information Security Analyst with 2 years of expertise in monitoring
     <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/Tenable_Nessus-0296D8?style=for-the-badge&logo=tenable&logoColor=white" />
     <img src="https://img.shields.io/badge/Qualys-ED1C24?style=for-the-badge&logo=qualys&logoColor=white" />
-    <img src="https://img.shields.io/badge/EnCase-007ACC?style=for-the-badge&logo=digital-ocean&logoColor=white" />
-    <img src="https://img.shields.io/badge/FTK-000000?style=for-the-badge&logo=box&logoColor=white" />
 </div>
 
 <br>
@@ -79,9 +72,7 @@ Experienced Information Security Analyst with 2 years of expertise in monitoring
 <div>
     <img src="https://img.shields.io/badge/Microsoft_Entra-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/Duo_Security-54AE32?style=for-the-badge&logo=duosecurity&logoColor=white" />
-    <img src="https://img.shields.io/badge/Proofpoint-000000?style=for-the-badge&logo=proofpoint&logoColor=white" />
     <img src="https://img.shields.io/badge/Vanta-6366F1?style=for-the-badge&logo=vanta&logoColor=white" />
-    <img src="https://img.shields.io/badge/One_Identity-003366?style=for-the-badge&logo=identity&logoColor=white" />
 </div>
 
 <br>
@@ -90,16 +81,6 @@ Experienced Information Security Analyst with 2 years of expertise in monitoring
 <div>
     <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
     <img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
-    <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
-</div>
-
-<br>
-
-### 🌐 Networking & Infrastructure
-<div>
-    <img src="https://img.shields.io/badge/Fortinet-FF4500?style=for-the-badge&logo=fortinet&logoColor=white" />
-    <img src="https://img.shields.io/badge/SolarWinds-FF6600?style=for-the-badge&logo=solarwinds&logoColor=white" />
-    <img src="https://img.shields.io/badge/TCP--IP_/_DNS_/_HTTP(S)-0052CC?style=for-the-badge&logo=wireshark&logoColor=white" />
 </div>
 
 <br>
