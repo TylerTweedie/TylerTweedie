@@ -7,7 +7,7 @@
 
 ## About me
 
-Experienced Information Security Analyst with 2 years of expertise in monitoring, investigating, and responding to security incidents. Proficient in threat and malware analysis, data loss prevention, and managing complex security incidents from detection to remediation. Adept at utilizing industry leading security tools and frameworks to enhance Security processes and safeguard enterprise environments. Highly motivated, detail oriented, and a strong team player with excellent communication skills.
+Experienced Information Security Analyst with 2 years of experience in monitoring, investigating, and responding to security incidents. Proficient in threat and malware analysis, data loss prevention, and managing complex security incidents from detection to remediation. Adept at utilizing industry leading security tools and frameworks to enhance Security processes and safeguard enterprise environments. Highly motivated, detail oriented, and a strong team player with excellent communication skills.
 
 
 <br>
